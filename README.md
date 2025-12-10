@@ -50,9 +50,9 @@ bash download.sh yolov5m_face  # Medium model
 
 | Model Name | Easy  | Medium | Hard  | FLOPs (G) | Params (M) | Model Size |
 | ---------- | ----- | ------ | ----- | --------- | ---------- | ---------- |
-| YOLOv5n    | 93.61 | 91.52  | 80.53 | 2.111     | 1.726      | ~7 MB      |
+| YOLOv5n    | 93.61 | 91.52  | 80.53 | 2.111     | 1.726      | ~11 MB     |
 | YOLOv5s    | 94.33 | 92.61  | 83.15 | 5.751     | 7.075      | ~28 MB     |
-| YOLOv5m    | 95.30 | 93.76  | 85.28 | 18.146    | 21.063     | ~84 MB     |
+| YOLOv5m    | 95.30 | 93.76  | 85.28 | 18.146    | 21.063     | ~82 MB     |
 
 - **Easy/Medium/Hard**: mAP on WIDERFace validation subsets
 - **YOLOv5n**: Recommended for ultra-lightweight and edge device applications
