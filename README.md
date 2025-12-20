@@ -1,5 +1,5 @@
 # YOLOv5-Face ONNX Inference
-
+[![Downloads](https://img.shields.io/github/downloads/yakhyo/yolov5-face-onnx-inference/total)](https://github.com/yakhyo/yolov5-face-onnx-inference/releases)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/yakhyo/yolov5-face-onnx-inference)
 [![GitHub License](https://img.shields.io/github/license/yakhyo/yolov5-face-onnx-inference)](https://github.com/yakhyo/yolov5-face-onnx-inference/blob/main/LICENSE)
 [![GitHub Repo stars](https://img.shields.io/github/stars/yakhyo/yolov5-face-onnx-inference)](https://github.com/yakhyo/yolov5-face-onnx-inference/stargazers)
