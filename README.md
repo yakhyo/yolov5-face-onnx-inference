@@ -6,6 +6,10 @@
 
 Face detection with 5 facial landmarks using YOLOv5-Face ONNX Runtime inference.
 
+> [!TIP]  
+> The models and functionality in this repository are **integrated into [UniFace](https://github.com/yakhyo/uniface)** — an all-in-one face analysis toolkit.  
+> [![PyPI Version](https://img.shields.io/pypi/v/uniface.svg)](https://pypi.org/project/uniface/) [![GitHub Stars](https://img.shields.io/github/stars/yakhyo/uniface)](https://github.com/yakhyo/uniface/stargazers) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 Models converted to ONNX format from the original [YOLOv5-Face](https://github.com/deepcam-cn/yolov5-face) PyTorch implementation.
 
 <p align="center">
